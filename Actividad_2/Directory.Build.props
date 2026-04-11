@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <EnableSourceControlManagerQueries>false</EnableSourceControlManagerQueries>
+    <PublishRepositoryUrl>false</PublishRepositoryUrl>
+    <EmbedUntrackedSources>false</EmbedUntrackedSources>
+    <RunAnalyzers>false</RunAnalyzers>
+    <EnableNETAnalyzers>false</EnableNETAnalyzers>
+  </PropertyGroup>
+</Project>
